@@ -1,0 +1,116 @@
+{
+    "Products" : [
+        
+        {
+            "_id": "1",
+            "name": "Women Round Neck Cotton Top",
+            "price": 100,
+            "image":"p_img37.png",
+            "category": "Women"
+        },
+        {
+            "_id": "2",
+            "name": "Men Round Neck Pure Cotton T-shirt",
+            "price": 200,
+            "image": "p_img11.png",
+            "category": "Men"
+          
+        },
+        {
+            "_id": "3",
+            "name": "Girls Round Neck Cotton Top",
+            "price": 220,
+            "image": "p_img6.png",
+            "category":"Kids"
+          
+        },
+        {
+            "_id": "4",
+            "name": "The Lifestyle Co Women Lace Up Sneakers",
+            "price": 250,
+            "image": "shoes-1.png",
+            "category":"Shoes"
+        },
+        {
+            "_id": "5",
+            "name": "Kids Graphic Water Resistant Backpack",
+            "price": 220,
+            "image": "bag-1.png",
+            "category":"Bags"
+        },
+        {
+            "_id": "6",
+            "name": "Unisex Kids Blue & Green Brand Logo Print Backpack",
+            "price": 220,
+            "image": "bag-2.png",
+            "category":"Bags"
+        },
+        {
+            "_id": "7",
+            "name": "Men Black Dial Watch DZ4283",
+            "price": 220,
+            "image": "watch-1.png",
+            "category":"Watches"
+        },
+        {
+            "_id": "8",
+            "name": "The Lifestyle Co Women Lace Up Sneakers",
+            "price": 220,
+            "image": "shoes-2.png",
+            "category":"Shoes"
+        },
+        {
+            "_id": "9",
+            "name": "Men Printed Dial & Stainless Steel Bracelet Style Straps Analogue",
+            "price": 220,
+            "image": "watch-2.png",
+            "category":"Watch"
+        },
+        {
+            "_id": "10",
+            "name": "Unisex Kids Blue & Green Brand Logo Print Backpack",
+            "price": 220,
+            "image": "bag-2.png",
+            "category":"Bags"
+
+        },
+        {
+            "_id": "11",
+            "name": "Men Black Dial Watch DZ4283",
+            "price": 220,
+            "image": "watch-1.png",
+            "category":"Watch"
+        },
+        {
+            "_id": "12",
+            "name": "The Lifestyle Co Women Lace Up Sneakers",
+            "price": 220,
+            "image": "shoes-2.png",
+            "category":"Shoes"
+        },
+        {
+            "_id": "13",
+            "name": "Women Round Neck Cotton Top",
+            "price": 100,
+            "image":"p_img1.png",
+            "category": "Women"
+        },
+        {
+            "_id": "14",
+            "name": "Men Round Neck Pure Cotton T-shirt",
+            "price": 200,
+            "image": "p_img2.png",
+            "category": "Men"
+          
+        },
+        {
+            "_id": "15",
+            "name": "Boy Round Neck Pure Cotton T-shirt",
+            "price": 220,
+            "image": "p_img14.png",
+            "category": "Kids"
+          
+        }
+   
+    ]
+}

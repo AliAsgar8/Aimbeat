@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* ----------------------NAVBAR ------------------------    */
+
+.heart {
+    position: relative;
+}
+
+.heart::after {
+    content: '4';
+    /* The text you want to display */
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: #60a5fa;
+ 
+    color: white;
+    border-radius: 9999px;
+    
+    height: 20px;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+ 
+    font-weight: bold;
+    
+}
